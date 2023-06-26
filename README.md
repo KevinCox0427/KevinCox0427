@@ -2,6 +2,9 @@
 
 ### About Me
 
+Looking for work. \
+Portfolio Site: [https://www.dreamstate.graphics](https://www.dreamstate.graphics) \
+
 My name is Kevin Cox, and I'm a full-stack developer and graphic artist. I love all things code and art, and even better, both!
 I love to help people, and nothing excites me more than hearing a client say *"Everyone loves the new look of the website."* or *"This website is so much faster now!"*
 Since I'm a developer with an artistic perfectionism, I strive to thoroughly understand every code library I use and every pixel I create with a focused purpose.
