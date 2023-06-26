@@ -18,7 +18,7 @@ Coming soon :eyes:: An Angular/.Net front-end website builder.
 
 ---
 
-### Some of my skills: (Growing)
+### Some of my skills: (Ever-growing)
 
 | Front-End | Back-end | Databases/APIs | Graphic Design |
 | --------- | -------- | -------------- | -------------- |
