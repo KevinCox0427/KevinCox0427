@@ -2,7 +2,7 @@
 
 ### About Me
 
-Looking for work. [Resume](https://www.dreamstate.graphics/about) [Portfolio](https://www.dreamstate.graphics)\
+Looking for work: &nbsp;[Resume](https://www.dreamstate.graphics/about) &nbsp;[Portfolio](https://www.dreamstate.graphics)\
 \
 My name is Kevin Cox, and I'm a full-stack developer and graphic artist. I love all things code and art, and even better, both!
 I love to help people, and nothing excites me more than hearing a client say *"Everyone loves the new look of the website."* or *"This website is so much faster now!"*
