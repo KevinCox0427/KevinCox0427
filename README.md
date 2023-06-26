@@ -3,7 +3,7 @@
 ### About Me
 
 My name is Kevin Cox, and I'm a full-stack developer and graphic artist. I love all things code and art, and even better, both!
-I love to help people, and nothing excites me more than hearing a client say *"Everyone loves the new look of the website."* or *"This website is so much faster now!"*
+I love to help people, and nothing excites me more than hearing a client say •"Everyone loves the new look of the website."• or •"This website is so much faster now!"•
 Since I'm a developer with an artistic perfectionism, I strive to thoroughly understand every code library I use and every pixel I create with a focused purpose.
 
 ### Some of my recent builds:
@@ -17,5 +17,5 @@ Coming soon :eyes:: An Angular/.Net front-end builder.
 ### Some of my skills: (Growing with my insatiable quest to learn)
 
 | Front-End | Back-end | Databases/APIs | Graphic Design |
-----------------------------------------------------------
-| * HTML * CSS * Javascript * Typesript * React.js * Angular.js * Jest.js * JQuery * SCSS | * Python * Flask * Node.js * Express.js * PHP * AWS * Docker * MVC Modeling * WordPress | * SQL * NoSQL * PostgreSQL * MySQL * MongoDB * OOP Abstractions * REST * GraphQL * RPC * SOAP | * UI/UX Design * Mockups * Vector Graphics * Illustration * Raster Graphics * Motion Graphics * Photography * Adobe Illustrator * Adobe Photoshop * Figma * Adobe XD * Adobe After Effects * Adobe Lightroom |
+| --------- | -------- | -------------- | -------------- |
+| • HTML • CSS • Javascript • Typesript • React.js • Angular.js • Jest.js • JQuery • SCSS | • Python • Flask • Node.js • Express.js • PHP • AWS • Docker • MVC Modeling • WordPress | • SQL • NoSQL • PostgreSQL • MySQL • MongoDB • OOP Abstractions • REST • GraphQL • RPC • SOAP | • UI/UX Design • Mockups • Vector Graphics • Illustration • Raster Graphics • Motion Graphics • Photography • Adobe Illustrator • Adobe Photoshop • Figma • Adobe XD • Adobe After Effects • Adobe Lightroom |
