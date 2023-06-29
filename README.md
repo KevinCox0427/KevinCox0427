@@ -16,7 +16,7 @@ Since I'm a developer with an artistic perfectionism, I strive to thoroughly und
 
 [Materials Matter Project](https://github.com/KevinCox0427/Materials-Matter-App): A teaching materials application for professors to create "maps" for students to view instead of a slideshow when lecturing. Students simultaneously can log on and view the maps, while also being able to comment directly on top to increase student engagement. A SERN (MySQL-React-Node-Express) stack with Socket.io endpoint for real-time commenting.
 
-Coming soon :eyes:: An Angular/.Net videogame based on NES Ice Hockey
+[Angular Arcade Hokcey](https://github.com/KevinCox0427/Angular-Arcade-Hockey): An Angular/.Net multiplayer videogame based on NES Ice Hockey.
 
 ---
 
