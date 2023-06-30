@@ -14,7 +14,7 @@ Since I'm a developer with an artistic perfectionism, I strive to thoroughly und
 
 [My new portfolio site](https://github.com/KevinCox0427/Portfolio-Redo): A React-based website to update the projects I've worked on throughout the years. It uses a Python backend with an Express server running simultaneously to render and hydrate the React content.
 
-[Materials Matter Project](https://github.com/KevinCox0427/Materials-Matter-App): A teaching materials application for professors to create "maps" for students to view instead of a slideshow when lecturing. Students simultaneously can log on and view the maps, while also being able to comment directly on top to increase student engagement. A SERN (MySQL-React-Node-Express) stack with Socket.io endpoint for real-time commenting.
+[Materials Matter Prototype](https://github.com/KevinCox0427/Materials-Matter-App): A teaching materials application for professors to create "maps" for students to view instead of a slideshow when lecturing. Students simultaneously can log on and view the maps, while also being able to comment directly on top to increase student engagement. A SERN (MySQL-React-Node-Express) stack with Socket.io endpoint for real-time commenting.
 
 [Angular Arcade Hokcey](https://github.com/KevinCox0427/Angular-Arcade-Hockey): An Angular/.Net multiplayer videogame based on NES Ice Hockey.
 
