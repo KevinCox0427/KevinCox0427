@@ -1,25 +1,28 @@
 # Hey there!
 
-### About Me
-\
-My name is Kevin Cox, and I'm a full-stack developer and graphic artist. I love all things code and art, and even better, both!
-I enjoy helping people, and nothing excites me more than hearing a client say *"Everyone loves the new look of the website."* or *"This website is so much faster now!"*
-I'm a developer with an artistic perfectionism, and I strive to thoroughly understand every code library I use and craft every pixel I create.
+## About Me
+
+An ideas driven software engineer that uses a diverse skill set to architect, implement, scale, and maintain any technical need. An advocate for requiring an intimate understanding of the entire software lifecycle to formulate solid software theory and methodology, to deliver highly usable, scalable, efficient, and extendable products. An independent, highly motivated critical thinker that specializes in the digitizing and scaling of business operations to align with their goals.
+
+## Experience:
+
+### Senior Software Engineer
+*The NBPA | New York, NY | 10/2023 - Present*
+ - Architected and implemented a CRM to facilitate union operations including player management, agent & financial advisor management, financial documents & payouts, contract management, facility scheduling, and data analytics.
+ - Designed and developed a mobile application & web portal to integrate with the CRM for players, agents, and advisors.
+ - Designed and developed all web applications including their main public website, a web game with 2 million users, elite basketball camps’ websites & invitation systems, and a texting management platform for all NBA players.
+ - Led and managed a team of 2-4 to assist in aforementioned projects and maintain software infrastructure.
 
 ---
 
-### Some of my recent builds:
+### Senior Software Engineer
+*Red Barn Technology Group | Binghamton, NY | 06/2022 - 06/2023*
+ - Designed and developed web applications for 7 on-going clients including a real-estate website, a car configurator for ordering custom Porsches, a computer configurator for ordering supercomputers, a carbon sequestion calculator for tree farmers and an aquarium subscription service.
+ - Led and developed a middleware server to integrate an open-source ERP software for their internal departments.
+ - Led and managed a team of 5-7 to assist in aforementioned projects and maintain software infrastructure.
 
-[My new portfolio site](https://github.com/KevinCox0427/Portfolio-Redo): A React-based website to update the projects I've worked on throughout the years. It uses a Python backend with an Express server running simultaneously to render and hydrate the React content.
+## Skills:
 
-[Materials Matter Prototype](https://github.com/KevinCox0427/Materials-Matter-App): A teaching materials application for professors to create "maps" for students to view instead of a slideshow when lecturing. Students simultaneously can log on and view the maps, while also being able to comment directly on top to increase student engagement. A SERN (MySQL-React-Node-Express) stack with Socket.io endpoint for real-time commenting.
-
-[Angular Arcade Hokcey](https://github.com/KevinCox0427/Angular-Arcade-Hockey): An Angular/Java multiplayer videogame based on NES Ice Hockey.
-
----
-
-### Some of my skills: (Ever-growing)
-
-| Front-End | Back-end | Databases/APIs | Graphic Design |
-| --------- | -------- | -------------- | -------------- |
-| • HTML • CSS • Javascript • Typesript • SASS • React.js • Angular.js • Vue.js • Webpack • Vite • Unit Testing • JQuery | • Python • Flask • Node.js • Express.js • PHP • Laravel • AWS • Docker • MVC Modeling • WordPress | • SQL • NoSQL • PostgreSQL • MySQL • MongoDB • OOP Abstractions • REST • GraphQL | • UI/UX Design • Mockups • Vector Graphics • Illustration • Raster Graphics • Motion Graphics • Photography • Adobe Illustrator • Adobe Photoshop • Figma • Adobe XD • Adobe After Effects • Adobe Lightroom |
+| High-Level Skills | Languages | Frameworks | Additional Technologies | Soft Skills |
+| --------- | -------- | -------------- | -------------- | -------------- |
+| Software Architecture, Data Architecture, Network Infrasturcture, Cybersecurity, Full-Stack Development, AI Implementation, UI/UX Design | JavaScript, TypeScript, Java, C#, Python, Rust, PHP, HTML, CSS, SQL | Express, Nuxt, Next, .Net, Laravel, Flask, Spring Boot, Vue, React, Angular | PostgreSQL, MySQL, MongoDB, Redis, Docker, Webpack, GraphQL, AWS Infrastructure | Natural leader, Effective time/task management, Great communication, Graphic Design & Branding, Client Management |
