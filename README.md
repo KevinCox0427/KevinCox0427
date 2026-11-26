@@ -17,7 +17,7 @@ An ideas driven software engineer that uses a diverse skill set to architect, im
 
 ### Senior Software Engineer
 *Red Barn Technology Group | Binghamton, NY | 06/2022 - 06/2023*
- - Designed and developed web applications for 7 on-going clients including a real-estate website, a car configurator for ordering custom Porsches, a computer configurator for ordering supercomputers, a carbon sequestion calculator for tree farmers and an aquarium subscription service.
+ - Designed and developed web applications for 7 on-going clients including a real-estate website, a car configurator for ordering custom Porsches, a computer configurator for ordering supercomputers, a carbon sequestration calculator for tree farmers, and an aquarium subscription service.
  - Led and developed a middleware server to integrate an open-source ERP software for their internal departments.
  - Led and managed a team of 5-7 to assist in aforementioned projects and maintain software infrastructure.
 
